@@ -1,2 +1,0 @@
-# dslij.github.io
-dslij
